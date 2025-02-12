@@ -3,7 +3,7 @@ main = "api/worker.js"
 compatibility_date = "2024-06-02"
 
 [vars]
-BOT_TOKEN = "12345678:PAST-YOUR-BOT-TOKEN-HERE"
+BOT_TOKEN = "7702285784:AAEsYXobX7d3E2eFu89Hj7KjX99kfpG0Rcg"
 BOT_USERNAME = "Autoreactt_Bot"
 EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
 RANDOM_LEVEL = "2"
