@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: auto-reaction-bot
+    name: Autoreactt_Bot
     runtime: node
     plan: starter
     repo: https://github.com/Malith-Rukshan/Auto-Reaction-Bot
