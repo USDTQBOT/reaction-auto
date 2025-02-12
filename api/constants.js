@@ -53,7 +53,7 @@ export const htmlContent = `
   <a class="github-button" href="https://github.com/USDTQBOT/reaction-auto/fork" data-size="large" data-show-count="true">Fork</a>
 </div>
 <div>
-  <a class="github-button" href="https://github.com/Malith-Rukshan" data-size="large">Follow @Malith-Rukshan</a>
+  <a class="github-button" href="https://github.com/USDTQBOT" data-size="large">Follow @Malith-Rukshan</a>
 </div>
 </body>
 </html>
