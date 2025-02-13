@@ -4,7 +4,7 @@ compatibility_date = "2024-06-02"
 
 [vars]
 BOT_TOKEN = "7702285784:AAEsYXobX7d3E2eFu89Hj7KjX99kfpG0Rcg"
-BOT_USERNAME = "Autoreactt_Bot"
+BOT_USERNAME = "autoreactt_Bot"
 EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
 RANDOM_LEVEL = "2"
 RESTRICTED_CHATS = "1234,5678"
