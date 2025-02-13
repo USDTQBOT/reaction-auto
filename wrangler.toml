@@ -1,4 +1,4 @@
-name = "Autoreactt_Bot"
+name = "autoreactt_Bot"
 main = "api/worker.js"
 compatibility_date = "2024-06-02"
 
